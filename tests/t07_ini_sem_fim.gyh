@@ -1,0 +1,6 @@
+:DEC
+x:INT
+:PROG
+INI
+x := 1
+IMPRIMIR x

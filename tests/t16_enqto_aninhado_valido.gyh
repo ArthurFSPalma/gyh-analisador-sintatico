@@ -1,0 +1,14 @@
+:DEC
+i:INT
+j:INT
+s:REAL
+:PROG
+i := 0
+ENQTO i < 10
+INI
+  j := 0
+  ENQTO j < 3 E i != 5
+    j := j + 1
+  s := s + 1.5 * (i / 2)
+  i := i + 1
+FIM

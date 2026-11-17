@@ -1,0 +1,7 @@
+:DEC
+a:INT
+b:INT
+c:INT
+x:INT
+:PROG
+SE a > b > c ENTAO x := 1

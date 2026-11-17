@@ -1,0 +1,9 @@
+:DEC
+a:INT
+b:INT
+c:INT
+d:INT
+x:INT
+:PROG
+SE (a + b) > c E (c < d) ENTAO x := 1
+SE ((a < b) OU (c >= d)) E a != 0 ENTAO x := 2 SENAO x := 3

@@ -1,0 +1,5 @@
+:DEC
+x:INT
+:PROG
+IMPRIMIR 5
+IMPRIMIR "ola mundo"

@@ -1,0 +1,7 @@
+:DEC
+a:INT
+b:INT
+x:INT
+:PROG
+SE a > 0 ENTAO SE b > 0 ENTAO x := 1 SENAO x := 2
+IMPRIMIR "fim"

@@ -1,0 +1,6 @@
+:DEC
+a:INT
+b:INT
+x:INT
+:PROG
+SE (a + b) ENTAO x := 1

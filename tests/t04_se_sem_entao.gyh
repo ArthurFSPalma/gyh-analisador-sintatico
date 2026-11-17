@@ -1,0 +1,5 @@
+:DEC
+x:INT
+:PROG
+SE x > 1 x := 2
+IMPRIMIR x

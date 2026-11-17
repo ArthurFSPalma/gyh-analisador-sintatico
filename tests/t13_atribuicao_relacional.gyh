@@ -1,0 +1,6 @@
+:DEC
+a:INT
+b:INT
+x:INT
+:PROG
+x := (a > b)
